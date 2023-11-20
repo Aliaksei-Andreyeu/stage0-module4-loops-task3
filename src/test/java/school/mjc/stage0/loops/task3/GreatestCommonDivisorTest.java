@@ -1,7 +1,7 @@
 package school.mjc.stage0.loops.task3;
 
-import school.mjc.stage0.base.BaseIOTest;
 import org.junit.jupiter.api.Test;
+import school.mjc.stage0.base.BaseIOTest;
 
 class GreatestCommonDivisorTest extends BaseIOTest {
 
